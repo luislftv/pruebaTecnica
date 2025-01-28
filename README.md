@@ -12,7 +12,7 @@ Recomiendo usar IntelliJ. Al abrir el proyecto con IntelliJ, antes de hacer el p
 Ve a File | Settings | Build, Execution, Deployment | Compiler | Annotation Processors.
 Haz clic debajo de Annotation profile for pruebaTecnica en pruebaTecnica.
 Asegúrate de que esté activado el Enable annotations processing.
-Asegúrate de que esté marcada la opción Obtain processors from project classpath. Si está marcada la opción de processor path, al menos en mi caso, Lombok no funciona correctamente.
+Asegúrate de que esté marcada la opción Obtain processors from project classpath, ya que sii está marcada la opción de processor path, al menos en mi caso, Lombok no funciona correctamente.
 3. Hacer Build en el proyecto
 Realiza el build del proyecto en IntelliJ.
 
