@@ -4,7 +4,11 @@ Este proyecto es una API Rest para la gestión de torneos y partidos.
 
 ## Ejecución de la API Rest
 
-### 1. Clonar el repositorio
+### 
+
+1. Clonar el repositorio
+
+1.2 Verificar que el IDE este en java 21
 
 2. Configuración en IntelliJ
 Recomiendo usar IntelliJ. Al abrir el proyecto con IntelliJ, antes de hacer el primer build, sigue estos pasos:
